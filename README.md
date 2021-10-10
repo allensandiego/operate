@@ -12,14 +12,14 @@ Storage
  - Snapshots
  - Disks
 
-Services
-Plugins
-Jails
-
-Alerts
-Updates
-Reboot
-Shutdown
+Services\
+Plugins\
+Jails\
+\
+Alerts\
+Updates\
+Reboot\
+Shutdown\
 
 ### Available on
 
