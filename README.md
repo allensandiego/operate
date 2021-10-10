@@ -1,5 +1,24 @@
 # Operate
-Operate is an android app for FreeNAS
+Operate for FreeNAS is an unofficial app that let's you perform certain admin functions to your FreeNAS servers.
+
+Features:
+
+Groups
+Users
+Active Directory
+LDAP
+NIS
+Volume
+Disk
+Scrub
+Snapshot
+Plugins
+Jails
+Services
+Alerts
+Updates
+Reboot
+Shutdown
 
 ### Available on
 
