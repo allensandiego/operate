@@ -19,7 +19,7 @@ Jails\
 Alerts\
 Updates\
 Reboot\
-Shutdown\
+Shutdown
 
 ### Available on
 
